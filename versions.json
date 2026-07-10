@@ -1,7 +1,12 @@
 {"versions": [{"versiontype": "proofreading",
 		"title": "Speech during exercise: Adaptation and variability in production",
-		"authors": [{"name": "Heather Weston %use this field for editors as well"}],
+		"authors": [{"name": "Heather Weston"}],
 	"license": "CC-BY-4.0",
-	"publishedAt": "2026-04-01T09:44:15.000Z"}
+	"publishedAt": "2026-04-01T09:44:15.000Z"},
+	{"versiontype": "first_edition",
+		"title": "Speech during exercise: Adaptation and variability in production",
+		"authors": [{"name": "Heather Weston"}],
+	"license": "CC-BY-4.0",
+	"publishedAt": "2026-07-01T09:44:15.000Z"},
 	]
 }
